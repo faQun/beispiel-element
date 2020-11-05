@@ -1,67 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T15:01:24.945Z" agent="5.0 (Windows)" etag="LG-_RYZ7l1iY92FSSVMC" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T15:53:38.642Z" agent="5.0 (Windows)" etag="wIBwTnm3OqA-29VRn4kn" version="13.9.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="80" width="540" height="440" as="geometry" />
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-2" parent="0" />
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-3" value="&lt;div&gt;True Teamwork&lt;/div&gt;&lt;div&gt;like a virus&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-2">
+          <mxGeometry x="140" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <object label="TO DO" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 1&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-3">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 2&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-4">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 3&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-5">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="DOING" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 4&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-7">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 5&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-8">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-6" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="DONE" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 6&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-10">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 7&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-11">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 8&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-12">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-4" value="Staying open-minded towards simple ideas like crafting" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-2">
+          <mxGeometry x="330" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-6" value="Development takes place like this" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-2">
+          <mxGeometry x="115" y="90" width="620" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-8" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="10" y="180" width="112" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-10" value="&lt;div&gt;Here I stand&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;now" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="63" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-11" value="This way I run to my first goal" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=10;dx1=20;notch=12;arrowHead=20;dx2=25;dy2=30;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="160" y="70" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-12" value="Learn to Get EVERYBODY into the same boat" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=center;align=center;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="483" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-13" value="&lt;div&gt;I aim for developing my social instincts&lt;/div&gt;&lt;div&gt;to include also opposite activity ideas&lt;br&gt; &lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="240" y="280" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-16" value="&lt;div&gt;&lt;h3&gt;Encourage the children to speak up&lt;/h3&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;strokeWidth=4;align=center;labelPosition=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="50" y="450" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-17" value="&lt;font style=&quot;font-size: 15px&quot; face=&quot;Comic Sans MS&quot;&gt;MISSION ACCOMPLISHED!&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeWidth=4;align=center;fillColor=#FFD966;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="425" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-23" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="OvUPb9AXrMZjdHnym7Ba-6" source="OvUPb9AXrMZjdHnym7Ba-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="235" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-26" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;fillColor=#FFD966;gradientColor=#CCCC00;align=center;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="355" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-29" value="Hey, don&#39;t forget &#39;em" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;strokeWidth=4;fillColor=#FFD966;gradientColor=#CCCC00;align=center;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="383" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.no_symbol;strokeWidth=4;align=center;strokeColor=#b85450;fillColor=#FF0000;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="495" y="290" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-31" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;strokeWidth=4;align=center;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="480" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=11.94;dx=41.44;arrowHead=55;rotation=-90;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="13.43" y="213.43" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;strokeWidth=4;fillColor=#FF0000;gradientColor=#CCCC00;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-6">
+          <mxGeometry x="-25" y="330" width="105" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-35" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#000099;strokeWidth=3;" edge="1" parent="OvUPb9AXrMZjdHnym7Ba-6" target="OvUPb9AXrMZjdHnym7Ba-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="210" as="sourcePoint" />
+            <mxPoint x="405" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="106" y="210" />
+              <mxPoint x="155" y="210" />
+              <mxPoint x="155" y="420" />
+              <mxPoint x="405" y="420" />
+              <mxPoint x="405" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-14" value="&lt;div style=&quot;font-size: 10px&quot; align=&quot;center&quot;&gt;&lt;h3&gt;I will need to go one step back&lt;/h3&gt;&lt;/div&gt;&amp;nbsp;because I push to hard" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=top;gradientColor=#CCCC00;arcSize=12;align=center;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-2">
+          <mxGeometry x="500" y="310" width="208" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-21" value="" style="endArrow=none;dashed=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OvUPb9AXrMZjdHnym7Ba-2" source="OvUPb9AXrMZjdHnym7Ba-4" target="OvUPb9AXrMZjdHnym7Ba-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=20;exitDy=0;exitPerimeter=0;" edge="1" parent="OvUPb9AXrMZjdHnym7Ba-2" source="OvUPb9AXrMZjdHnym7Ba-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-25" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="OvUPb9AXrMZjdHnym7Ba-2" source="OvUPb9AXrMZjdHnym7Ba-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="420" />
+              <mxPoint x="460" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-9" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;" edge="1" parent="OvUPb9AXrMZjdHnym7Ba-2" target="OvUPb9AXrMZjdHnym7Ba-12">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="610" y="310" as="sourcePoint" />
+            <mxPoint x="658.8" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvUPb9AXrMZjdHnym7Ba-39" value="&lt;div&gt;My goal to be a great value to the team and the spirit of the project will need\\&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;&amp;nbsp;Thinking OUT-OF-THE-BOX&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="OvUPb9AXrMZjdHnym7Ba-2">
+          <mxGeometry x="-100" y="340" width="190" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
